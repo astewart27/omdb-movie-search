@@ -1,6 +1,4 @@
-# empty-project
-
-Empty project.
+# Pure Vanilla JavaScript OMDb Movie Search App
 
 ## Building and running on localhost
 
