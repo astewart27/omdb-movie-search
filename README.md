@@ -1,5 +1,9 @@
 # Pure Vanilla JavaScript OMDb Movie Search App
 
+Built using the OMDb API - [here](http://www.omdbapi.com/)
+
+Interactive tool for creating your own `webpack.config.js` - [here](https://createapp.dev/)
+
 ## Building and running on localhost
 
 First install dependencies:
