@@ -4,7 +4,7 @@ Built using the OMDb API - [here](http://www.omdbapi.com/)
 
 Interactive tool for creating your own `webpack.config.js` - [here](https://createapp.dev/)
 
-![OMDb App](https://github.com/astewart27/omdb-movie-search/tree/master/images/omdb-js-screenshot.png)
+![OMDb App](https://github.com/astewart27/omdb-movie-search/blob/master/images/omdb-js-screenshot.png)
 
 ## Building and running on localhost
 
